@@ -17,8 +17,9 @@ The goal of this project is to train regression models using this data to predic
 
 ### Dataset
 The data, collected from different types of tumors, can be downloaded from the two links below:
-- Data CSV: https://perso.univ-rennes1.fr/valerie.monbet/MachineLearning/TCGA-PANCAN-HiSeq-801x20531/data.csv
-- Labels CSV: https://perso.univ-rennes1.fr/valerie.monbet/MachineLearning/TCGA-PANCAN-HiSeq-801x20531/labels.csv
+- <a href="https://perso.univ-rennes1.fr/valerie.monbet/MachineLearning/TCGA-PANCAN-HiSeq-801x20531/data.csv">Data CSV</a>
+- <a href="https://perso.univ-rennes1.fr/valerie.monbet/MachineLearning/TCGA-PANCAN-HiSeq-801x20531/labels.csv">Labels CSV</a>
+
 
 ### Models
 This project implements four different regression models using cancer genome data:
