@@ -2,7 +2,7 @@
 
 Pan-cancer analysis involves assessing frequently mutated genes and other genomic abnormalities common to many different cancers, regardless of tumor origin. Using next-generation sequencing (NGS), pan-tumor projects such as The Cancer Genome Atlas2 have made significant contributions to our understanding of DNA and RNA variants across many cancer types.
 <div align="center">
-  <img height="350" src="https://drive.google.com/uc?id=1wyCTVxiPnUHJXHJ24RR5Qr5kGfHEL-D0" alt="pancancer" width="500" />
+  <img  src="https://drive.google.com/uc?id=1wyCTVxiPnUHJXHJ24RR5Qr5kGfHEL-D0" alt="pancancer"  />
 </div>
 
 
