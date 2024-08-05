@@ -35,6 +35,5 @@ The models are evaluated using two different metrics: mean squared error (MSE) a
 | Ridge Regression         | 0.97  | 0.96             | 0.05         |
 | Lasso Regression         | 0.92  | 0.94             | 0.07         |
 
-The results indicate relatively high performance across the four regression models, with accuracy scores ranging from 0.92 to 0.98. However, it is noteworthy that Lasso regression has a lower accuracy score and higher mean squared error compared to the other models.
 
-In summary, simple and multiple linear regression models exhibit comparable performance, while Ridge and Lasso regression models have slightly lower performance.
+- Simple and multiple linear regression models exhibit comparable performance, while Ridge and Lasso regression models have slightly lower performance.
