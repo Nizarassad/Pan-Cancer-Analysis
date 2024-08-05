@@ -24,3 +24,17 @@ This project implements four different regression models using cancer genome dat
 - Multiple Linear Regression (MLR)
 - Ridge Regression (RR)
 - Lasso Regression (LR)
+
+### Evaluation
+The models are evaluated using two different metrics: mean squared error (MSE) and cross-validation. 
+
+| Model                    | Score | Cross-validation | Mean Squared Error                  |
+|--------------------------|-------|------------------|-------------------------------------|
+| Simple Linear Regression | 0.98  | 0.98             | 0.05                                |
+| Multiple Linear Regression | 0.98  | 0.98             | [0.98,0.99,0.99,0.98,0.99]          |
+| Ridge Regression         | 0.98  | 0.98             | [0.98,0.99,0.99,0.98,0.99]          |
+| Lasso Regression         | 0.92  | 0.94             | [0.94,0.93,0.95,0.93,0.94]          |
+
+The results indicate relatively high performance across the four regression models, with accuracy scores ranging from 0.92 to 0.98. However, it is noteworthy that Lasso regression has a lower accuracy score and higher mean squared error compared to the other models.
+
+In summary, simple and multiple linear regression models exhibit comparable performance, while Ridge and Lasso regression models have slightly lower performance.
