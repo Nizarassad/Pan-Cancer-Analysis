@@ -4,7 +4,7 @@ Pan-cancer analysis involves assessing frequently mutated genes and other genomi
 <div align="center">
   <img  height="200" src="https://drive.google.com/uc?id=1wyCTVxiPnUHJXHJ24RR5Qr5kGfHEL-D0" alt="pancancer"  width="300" />
 </div>
-*Image 
+*Image*
 
 The objective of this project is to utilize regression techniques to predict a continuous value using data from The Cancer Genome Atlas (TCGA) Pan-Cancer analysis project. 
 
