@@ -7,7 +7,7 @@ Pan-cancer analysis involves assessing frequently mutated genes and other genomi
 
 The objective of this project is to utilize regression techniques to predict a continuous value using data from The Cancer Genome Atlas (TCGA) Pan-Cancer analysis project. 
 
-### Aim anf goals 
+### Goal and Aims:
 The goal of this project is to train regression models using this data to predict a continuous value representing a specific molecular characteristic of cancers. The aims are the following:
 - Study the genomes of various cancers to better understand their molecular characteristics.
 - Assist in developing new treatment strategies
