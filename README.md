@@ -3,7 +3,7 @@
 Pan-cancer analysis involves assessing frequently mutated genes and other genomic abnormalities common to many different cancers, regardless of tumor origin. Using next-generation sequencing (NGS), pan-tumor projects such as The Cancer Genome Atlas2 have made significant contributions to our understanding of DNA and RNA variants across many cancer types.
 
 <p align="center">
-  <img src="https://drive.google.com/file/d/1wyCTVxiPnUHJXHJ24RR5Qr5kGfHEL-D0" alt="Black Friday Analysis">
+  <img src="https://drive.google.com/file/d/1wyCTVxiPnUHJXHJ24RR5Qr5kGfHEL-D0" alt="tissue vizualisation">
 </p>
 
 The objective of this project is to utilize regression techniques to predict a continuous value using data from The Cancer Genome Atlas (TCGA) Pan-Cancer analysis project. 
